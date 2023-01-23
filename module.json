@@ -1,0 +1,11 @@
+{
+    "name": "MasterUnit",
+    "alias": "masterunit",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MasterUnit\\Providers\\MasterUnitServiceProvider"
+    ],
+    "files": []
+}
